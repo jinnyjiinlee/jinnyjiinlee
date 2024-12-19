@@ -38,7 +38,3 @@
 
 <hr style="border: 0.5px solid #ccc;" />
 
-### ✅ To-Do List
-- [ ] 우아한테크코스 합격
-
-</div>
