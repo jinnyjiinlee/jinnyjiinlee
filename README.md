@@ -35,7 +35,7 @@
 <hr style="border: 0.5px solid #ccc;" />
 
 ### 💻 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript (React.js, Vue.js 학습 중)  
+- **Frontend:** HTML, CSS, JavaScript 
 - **Backend:** Node.js (Express)  
 - **Tools:** GitHub, Figma, Google Apps Script  
 
@@ -64,9 +64,5 @@
 
 <hr style="border: 0.5px solid #ccc;" />
 
-### 🎉 Fun Facts
-✨ **비효율적인 것을 못 참아요!** 모든 것을 자동화하고 싶어요!  
-🐶 **강아지를 키우고 있어요!** 작은 포메라니안을 키우며 코딩할 때 좋은 친구입니다.  
-🌱 **어떤 개발자로 성장할지 기대 중이에요!**
 
 </div>
