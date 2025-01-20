@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Jinny_Jinny_Lee&fontSize=90&fontColor=white)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Jinny_Jiin_Lee&fontSize=90&fontColor=white)
 
 <div align="center">
 
